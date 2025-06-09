@@ -2,13 +2,13 @@
 
 **Last Updated: June 2025**
 
-Welcome to Lokole App. These Terms of Use (“Terms”) govern your access to and use of Lokole App (the “App”), operated by Charles Japhet Charles (“we,” “us,” or “our”). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree, do not use the App.
+Welcome to Lokole App. These Terms of Use (“Terms”) govern your access to and use of Lokole App (the “App”). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree, do not use the App.
 
 ---
 
 ## 1. Acceptance of Terms
 
-By using Lokole App, you affirm that you are at least 13 years old and capable of forming a binding contract. If you are using the App on behalf of an organization, you represent you have the authority to bind that organization to these Terms.
+By using Lokole App, you affirm that you are at least 16 years old and capable of forming a binding contract. If you are using the App on behalf of an organization, you represent you have the authority to bind that organization to these Terms.
 
 ---
 
@@ -17,8 +17,6 @@ By using Lokole App, you affirm that you are at least 13 years old and capable o
 You agree to use the App only for lawful purposes and in a way that does not infringe the rights of, restrict, or inhibit anyone else’s use and enjoyment of the App.
 
 You agree not to:
-
-- Use the App to upload, post, email, or otherwise transmit any content that is unlawful, harmful, threatening, abusive, defamatory, vulgar, obscene, or otherwise objectionable.  
 - Interfere with or disrupt the integrity or performance of the App.  
 - Attempt to gain unauthorized access to any part of the App or its related systems.
 
@@ -34,7 +32,7 @@ Notify us immediately if you suspect any unauthorized use of your account.
 
 ## 4. Subscriptions and Payments
 
-Access to certain content within the App may require a valid subscription.
+Access to all contents within the App may require a valid subscription.
 
 Payments are processed securely via Selcom Paytech. We do not store or process your payment details directly.
 
@@ -85,5 +83,4 @@ Your continued use of the App after changes constitutes acceptance of the update
 For questions about these Terms, please contact:
 
 Charles Japhet Charles  
-Email: chazykeyz12@gmail.com  
-Phone: +255 787 064 145
+Email: developerkeyz@gmail.com  
